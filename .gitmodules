@@ -1,0 +1,6 @@
+[submodule "webmanager"]
+	path = webmanager
+	url = https://github.com/weijia/webmanager.git
+[submodule "django-simplemenu"]
+	path = django-simplemenu
+	url = https://github.com/weijia/django-simplemenu.git
