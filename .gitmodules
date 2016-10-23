@@ -4,3 +4,6 @@
 [submodule "django-simplemenu"]
 	path = django-simplemenu
 	url = https://github.com/weijia/django-simplemenu.git
+[submodule "userena-bootstrap"]
+	path = userena-bootstrap
+	url = https://github.com/syntaxsugar/userena-bootstrap.git
