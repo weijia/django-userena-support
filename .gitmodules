@@ -7,3 +7,6 @@
 [submodule "userena-bootstrap"]
 	path = userena-bootstrap
 	url = https://github.com/syntaxsugar/userena-bootstrap.git
+[submodule "django-oauth2-provider"]
+	path = django-oauth2-provider
+	url = https://github.com/weijia/django-oauth2-provider.git
